@@ -1,6 +1,6 @@
 # Car Parking Space Detection Project
 
-This project demonstrates a simple car parking space detection system using OpenCV and cvzone. It allows you to mark parking spaces on a static image, and then it detects the occupancy of these spaces in a video feed. The project was inspired by [Murtaza's Computer Vision Zone](https://www.computervision.zone/) course.
+This project demonstrates a simple car parking space detection system using OpenCV and cvzone. It allows you to mark parking spaces on a static image, and then it detects the occupancy of these spaces in a video feed. 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -24,7 +24,7 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/harshbafnaa/car-parking-detection.git
+   git clone [https://github.com/harshbafnaa/car-parking-detection.git](https://github.com/thinkrobotics/Live-Smart-Parking-Detection-System.git)
    ```
 
 2. Install the required dependencies, including OpenCV and cvzone:
@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-- This project was created by [Harsh Bafna](https://github.com/harshbafnaa)
+- This project was created by [Dhruv Khatter] 
